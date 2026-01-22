@@ -1,7 +1,5 @@
 # Hola, ¡soy Miguel Ángel Arriaga! 👋
 
-<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-arriaga-le%C3%B3n-0793a3360/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 ## 🚀 Sobre mí
 
 Físico en formación con enfoque en **Ciencia de Datos**. Cuento con experiencia analizando datos complejos provenientes de simulaciones moleculares y experimentos físicos. Recientemente certificado en **Advanced Data Analytics por Google**, lo que me ha permitido aterrizar mi capacidad analítica a la resolución de problemas de negocio.
@@ -30,3 +28,5 @@ Físico en formación con enfoque en **Ciencia de Datos**. Cuento con experienci
 
 ## 🎯 Objetivo
 Busco mi primera oportunidad como **Data Analyst Jr.** para aplicar mi rigor científico en la generación de insights que impulsen la toma de decisiones estratégicas basadas en datos.
+
+<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-arriaga-le%C3%B3n-0793a3360/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
