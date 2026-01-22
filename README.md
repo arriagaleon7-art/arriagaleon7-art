@@ -23,7 +23,7 @@ Físico en formación con enfoque en **Ciencia de Datos**. Cuento con experienci
 * **Google Advanced Data Analytics**
 
 ## 📂 Proyectos Destacados
-* **[Nombre de tu Proyecto de Google]:** Análisis de [X] para identificar [Y]. Logré un [Z]% de precisión.
+* **[Predicción de Rotación de Empleados (Salifort Motors)](https://github.com/arriagaleon7-art/Predicci-n-de-Rotaci-n-de-Empleados-Un-Enfoque-de-Machine-Learning-para-Salifort-Motors):** Desarrollo de un modelo predictivo con **XGBoost y Random Forest** que identifica factores críticos de renuncia con una precisión >90%. Apliqué limpieza de datos, ingeniería de variables y análisis de importancia de características para generar recomendaciones de negocio.
 * **Análisis de Dinámica Molecular (Tesis):** Procesamiento de datos de macroiones en solución usando Python para extraer patrones de movilidad.
 
 ## 🎯 Objetivo
