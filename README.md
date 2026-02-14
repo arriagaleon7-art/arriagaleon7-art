@@ -23,6 +23,7 @@ Físico en formación con enfoque en **Ciencia de Datos**. Cuento con experienci
 * **Google Advanced Data Analytics**
 
 ## 📂 Proyectos Destacados
+* **[Segmentación de clientes bancarios](https://github.com/arriagaleon7-art/Segmentaci-n-de-clientes-bancarios-utilizando-KMeans/tree/main):** Segmentación de clientes bancarios con Machine Learning (KMeans). Identificación de perfiles financieros y demográficos para la personalización de estrategias de marketing y mitigación de riesgo.
 * **[Predicción de Rotación de Empleados (Salifort Motors)](https://github.com/arriagaleon7-art/Predicci-n-de-Rotaci-n-de-Empleados-Un-Enfoque-de-Machine-Learning-para-Salifort-Motors):** Desarrollo de un modelo predictivo con **XGBoost y Random Forest** que identifica factores críticos de renuncia con una precisión >90%. Apliqué limpieza de datos, ingeniería de variables y análisis de importancia de características para generar recomendaciones de negocio.
 * **Análisis de Dinámica Molecular (Tesis):** Procesamiento de datos de macroiones en solución usando Python para extraer patrones de movilidad.
 
